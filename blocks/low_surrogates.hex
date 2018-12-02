@@ -1,0 +1,5 @@
+; Block: Low Surrogates
+; Range: DC00..DFFF (2)
+; Missing >DC00:0000000000000000; name="<Low Surrogate, First>"
+; Unassigned: DC01..DFFF
+; Missing >DFFF:0000000000000000; name="<Low Surrogate, Last>"

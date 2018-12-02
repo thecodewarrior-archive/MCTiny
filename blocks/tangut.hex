@@ -1,0 +1,5 @@
+; Block: Tangut
+; Range: 017000..0187FF (2)
+; Missing >017000:0000000000000000; name="<Tangut Ideograph, First>"
+; Unassigned: 017001..0187FF
+; Missing >0187F1:0000000000000000; name="<Tangut Ideograph, Last>"

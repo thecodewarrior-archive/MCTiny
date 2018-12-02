@@ -1,0 +1,5 @@
+; Block: Supplementary Private Use Area-B
+; Range: 100000..10FFFF (2)
+; Missing >100000:0000000000000000; name="<Plane 16 Private Use, First>"
+; Unassigned: 100001..10FFFF
+; Missing >10FFFD:0000000000000000; name="<Plane 16 Private Use, Last>"

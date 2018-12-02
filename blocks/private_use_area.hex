@@ -1,0 +1,5 @@
+; Block: Private Use Area
+; Range: E000..F8FF (2)
+; Missing >E000:0000000000000000; name="<Private Use, First>"
+; Unassigned: E001..F8FF
+; Missing >F8FF:0000000000000000; name="<Private Use, Last>"

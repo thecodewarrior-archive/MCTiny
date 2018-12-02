@@ -1,0 +1,5 @@
+; Block: CJK Unified Ideographs Extension B
+; Range: 020000..02A6DF (2)
+; Missing >020000:0000000000000000; name="<CJK Ideograph Extension B, First>"
+; Unassigned: 020001..02A6DF
+; Missing >02A6D6:0000000000000000; name="<CJK Ideograph Extension B, Last>"

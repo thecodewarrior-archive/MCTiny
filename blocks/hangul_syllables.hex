@@ -1,0 +1,5 @@
+; Block: Hangul Syllables
+; Range: AC00..D7AF (2)
+; Missing >AC00:0000000000000000; name="<Hangul Syllable, First>"
+; Unassigned: AC01..D7AF
+; Missing >D7A3:0000000000000000; name="<Hangul Syllable, Last>"
