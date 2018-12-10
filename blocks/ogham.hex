@@ -1,5 +1,5 @@
 ; Block: Ogham
-; Range: 1680..169F (29)
+; Range: 1680..169F (0)
 ; Missing >1680:0000000000000000; advance=0 name="OGHAM SPACE MARK"
 ; Missing >1681:0000000000000000; advance=0 name="OGHAM LETTER BEITH"
 ; Missing >1682:0000000000000000; advance=0 name="OGHAM LETTER LUIS"

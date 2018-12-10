@@ -1,5 +1,5 @@
 ; Block: Enclosed Alphanumeric Supplement
-; Range: 01F100..01F1FF (192)
+; Range: 01F100..01F1FF (0)
 ; Missing >01F100:0000000000000000; advance=0 name="DIGIT ZERO FULL STOP"
 ; Missing >01F101:0000000000000000; advance=0 name="DIGIT ZERO COMMA"
 ; Missing >01F102:0000000000000000; advance=0 name="DIGIT ONE COMMA"

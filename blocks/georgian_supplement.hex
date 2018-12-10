@@ -1,5 +1,5 @@
 ; Block: Georgian Supplement
-; Range: 2D00..2D2F (40)
+; Range: 2D00..2D2F (0)
 ; Missing >2D00:0000000000000000; advance=0 name="GEORGIAN SMALL LETTER AN"
 ; Missing >2D01:0000000000000000; advance=0 name="GEORGIAN SMALL LETTER BAN"
 ; Missing >2D02:0000000000000000; advance=0 name="GEORGIAN SMALL LETTER GAN"

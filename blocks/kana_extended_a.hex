@@ -1,5 +1,5 @@
 ; Block: Kana Extended-A
-; Range: 01B100..01B12F (31)
+; Range: 01B100..01B12F (0)
 ; Missing >01B100:0000000000000000; advance=0 name="HENTAIGANA LETTER RE-3"
 ; Missing >01B101:0000000000000000; advance=0 name="HENTAIGANA LETTER RE-4"
 ; Missing >01B102:0000000000000000; advance=0 name="HENTAIGANA LETTER RO-1"

@@ -1,5 +1,5 @@
 ; Block: Variation Selectors
-; Range: FE00..FE0F (16)
+; Range: FE00..FE0F (0)
 ; Missing >FE00:0000000000000000; advance=0 name="VARIATION SELECTOR-1"
 ; Missing >FE01:0000000000000000; advance=0 name="VARIATION SELECTOR-2"
 ; Missing >FE02:0000000000000000; advance=0 name="VARIATION SELECTOR-3"

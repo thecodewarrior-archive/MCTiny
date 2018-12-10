@@ -1,5 +1,5 @@
 ; Block: Dogra
-; Range: 011800..01184F (60)
+; Range: 011800..01184F (0)
 ; Missing >011800:0000000000000000; advance=0 name="DOGRA LETTER A"
 ; Missing >011801:0000000000000000; advance=0 name="DOGRA LETTER AA"
 ; Missing >011802:0000000000000000; advance=0 name="DOGRA LETTER I"

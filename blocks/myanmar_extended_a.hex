@@ -1,5 +1,5 @@
 ; Block: Myanmar Extended-A
-; Range: AA60..AA7F (32)
+; Range: AA60..AA7F (0)
 ; Missing >AA60:0000000000000000; advance=0 name="MYANMAR LETTER KHAMTI GA"
 ; Missing >AA61:0000000000000000; advance=0 name="MYANMAR LETTER KHAMTI CA"
 ; Missing >AA62:0000000000000000; advance=0 name="MYANMAR LETTER KHAMTI CHA"

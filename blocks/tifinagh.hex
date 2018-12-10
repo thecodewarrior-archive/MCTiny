@@ -1,5 +1,5 @@
 ; Block: Tifinagh
-; Range: 2D30..2D7F (59)
+; Range: 2D30..2D7F (0)
 ; Missing >2D30:0000000000000000; advance=0 name="TIFINAGH LETTER YA"
 ; Missing >2D31:0000000000000000; advance=0 name="TIFINAGH LETTER YAB"
 ; Missing >2D32:0000000000000000; advance=0 name="TIFINAGH LETTER YABH"

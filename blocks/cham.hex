@@ -1,5 +1,5 @@
 ; Block: Cham
-; Range: AA00..AA5F (83)
+; Range: AA00..AA5F (0)
 ; Missing >AA00:0000000000000000; advance=0 name="CHAM LETTER A"
 ; Missing >AA01:0000000000000000; advance=0 name="CHAM LETTER I"
 ; Missing >AA02:0000000000000000; advance=0 name="CHAM LETTER U"

@@ -1,5 +1,5 @@
 ; Block: Supplemental Mathematical Operators
-; Range: 2A00..2AFF (256)
+; Range: 2A00..2AFF (0)
 ; Missing >2A00:0000000000000000; advance=0 name="N-ARY CIRCLED DOT OPERATOR"
 ; Missing >2A01:0000000000000000; advance=0 name="N-ARY CIRCLED PLUS OPERATOR"
 ; Missing >2A02:0000000000000000; advance=0 name="N-ARY CIRCLED TIMES OPERATOR"

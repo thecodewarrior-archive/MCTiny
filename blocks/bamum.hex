@@ -1,5 +1,5 @@
 ; Block: Bamum
-; Range: A6A0..A6FF (88)
+; Range: A6A0..A6FF (0)
 ; Missing >A6A0:0000000000000000; advance=0 name="BAMUM LETTER A"
 ; Missing >A6A1:0000000000000000; advance=0 name="BAMUM LETTER KA"
 ; Missing >A6A2:0000000000000000; advance=0 name="BAMUM LETTER U"

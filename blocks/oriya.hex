@@ -1,5 +1,5 @@
 ; Block: Oriya
-; Range: 0B00..0B7F (90)
+; Range: 0B00..0B7F (0)
 ; Unassigned: 0B00..0B00
 ; Missing >0B01:0000000000000000; advance=0 name="ORIYA SIGN CANDRABINDU"
 ; Missing >0B02:0000000000000000; advance=0 name="ORIYA SIGN ANUSVARA"

@@ -1,5 +1,5 @@
 ; Block: Mathematical Alphanumeric Symbols
-; Range: 01D400..01D7FF (996)
+; Range: 01D400..01D7FF (0)
 ; Missing >01D400:0000000000000000; advance=0 name="MATHEMATICAL BOLD CAPITAL A"
 ; Missing >01D401:0000000000000000; advance=0 name="MATHEMATICAL BOLD CAPITAL B"
 ; Missing >01D402:0000000000000000; advance=0 name="MATHEMATICAL BOLD CAPITAL C"

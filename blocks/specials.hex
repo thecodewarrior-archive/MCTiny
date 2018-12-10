@@ -1,5 +1,5 @@
 ; Block: Specials
-; Range: FFF0..FFFF (5)
+; Range: FFF0..FFFF (0)
 ; Unassigned: FFF0..FFF8
 ; Missing >FFF9:0000000000000000; advance=0 name="INTERLINEAR ANNOTATION ANCHOR"
 ; Missing >FFFA:0000000000000000; advance=0 name="INTERLINEAR ANNOTATION SEPARATOR"

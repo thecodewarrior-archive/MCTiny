@@ -1,5 +1,5 @@
 ; Block: Cypriot Syllabary
-; Range: 010800..01083F (55)
+; Range: 010800..01083F (0)
 ; Missing >010800:0000000000000000; advance=0 name="CYPRIOT SYLLABLE A"
 ; Missing >010801:0000000000000000; advance=0 name="CYPRIOT SYLLABLE E"
 ; Missing >010802:0000000000000000; advance=0 name="CYPRIOT SYLLABLE I"

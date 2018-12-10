@@ -1,5 +1,5 @@
 ; Block: Buginese
-; Range: 1A00..1A1F (30)
+; Range: 1A00..1A1F (0)
 ; Missing >1A00:0000000000000000; advance=0 name="BUGINESE LETTER KA"
 ; Missing >1A01:0000000000000000; advance=0 name="BUGINESE LETTER GA"
 ; Missing >1A02:0000000000000000; advance=0 name="BUGINESE LETTER NGA"

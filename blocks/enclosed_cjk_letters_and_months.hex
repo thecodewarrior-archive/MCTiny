@@ -1,5 +1,5 @@
 ; Block: Enclosed CJK Letters and Months
-; Range: 3200..32FF (254)
+; Range: 3200..32FF (0)
 ; Missing >3200:0000000000000000; advance=0 name="PARENTHESIZED HANGUL KIYEOK"
 ; Missing >3201:0000000000000000; advance=0 name="PARENTHESIZED HANGUL NIEUN"
 ; Missing >3202:0000000000000000; advance=0 name="PARENTHESIZED HANGUL TIKEUT"

@@ -1,5 +1,5 @@
 ; Block: Chess Symbols
-; Range: 01FA00..01FA6F (14)
+; Range: 01FA00..01FA6F (0)
 ; Unassigned: 01FA00..01FA5F
 ; Missing >01FA60:0000000000000000; advance=0 name="XIANGQI RED GENERAL"
 ; Missing >01FA61:0000000000000000; advance=0 name="XIANGQI RED MANDARIN"

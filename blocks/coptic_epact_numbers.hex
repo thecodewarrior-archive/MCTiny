@@ -1,5 +1,5 @@
 ; Block: Coptic Epact Numbers
-; Range: 0102E0..0102FF (28)
+; Range: 0102E0..0102FF (0)
 ; Missing >0102E0:0000000000000000; advance=0 name="COPTIC EPACT THOUSANDS MARK"
 ; Missing >0102E1:0000000000000000; advance=0 name="COPTIC EPACT DIGIT ONE"
 ; Missing >0102E2:0000000000000000; advance=0 name="COPTIC EPACT DIGIT TWO"

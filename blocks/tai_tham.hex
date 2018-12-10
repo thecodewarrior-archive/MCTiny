@@ -1,5 +1,5 @@
 ; Block: Tai Tham
-; Range: 1A20..1AAF (127)
+; Range: 1A20..1AAF (0)
 ; Missing >1A20:0000000000000000; advance=0 name="TAI THAM LETTER HIGH KA"
 ; Missing >1A21:0000000000000000; advance=0 name="TAI THAM LETTER HIGH KHA"
 ; Missing >1A22:0000000000000000; advance=0 name="TAI THAM LETTER HIGH KXA"

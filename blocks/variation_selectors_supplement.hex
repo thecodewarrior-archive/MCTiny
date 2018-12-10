@@ -1,5 +1,5 @@
 ; Block: Variation Selectors Supplement
-; Range: 0E0100..0E01EF (240)
+; Range: 0E0100..0E01EF (0)
 ; Missing >0E0100:0000000000000000; advance=0 name="VARIATION SELECTOR-17"
 ; Missing >0E0101:0000000000000000; advance=0 name="VARIATION SELECTOR-18"
 ; Missing >0E0102:0000000000000000; advance=0 name="VARIATION SELECTOR-19"

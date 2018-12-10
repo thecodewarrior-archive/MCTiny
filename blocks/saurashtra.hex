@@ -1,5 +1,5 @@
 ; Block: Saurashtra
-; Range: A880..A8DF (82)
+; Range: A880..A8DF (0)
 ; Missing >A880:0000000000000000; advance=0 name="SAURASHTRA SIGN ANUSVARA"
 ; Missing >A881:0000000000000000; advance=0 name="SAURASHTRA SIGN VISARGA"
 ; Missing >A882:0000000000000000; advance=0 name="SAURASHTRA LETTER A"

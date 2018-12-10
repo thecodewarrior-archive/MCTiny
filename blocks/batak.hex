@@ -1,5 +1,5 @@
 ; Block: Batak
-; Range: 1BC0..1BFF (56)
+; Range: 1BC0..1BFF (0)
 ; Missing >1BC0:0000000000000000; advance=0 name="BATAK LETTER A"
 ; Missing >1BC1:0000000000000000; advance=0 name="BATAK LETTER SIMALUNGUN A"
 ; Missing >1BC2:0000000000000000; advance=0 name="BATAK LETTER HA"

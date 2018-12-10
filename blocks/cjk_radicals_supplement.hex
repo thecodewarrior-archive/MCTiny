@@ -1,5 +1,5 @@
 ; Block: CJK Radicals Supplement
-; Range: 2E80..2EFF (115)
+; Range: 2E80..2EFF (0)
 ; Missing >2E80:0000000000000000; advance=0 name="CJK RADICAL REPEAT"
 ; Missing >2E81:0000000000000000; advance=0 name="CJK RADICAL CLIFF"
 ; Missing >2E82:0000000000000000; advance=0 name="CJK RADICAL SECOND ONE"

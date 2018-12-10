@@ -1,5 +1,5 @@
 ; Block: Makasar
-; Range: 011EE0..011EFF (25)
+; Range: 011EE0..011EFF (0)
 ; Missing >011EE0:0000000000000000; advance=0 name="MAKASAR LETTER KA"
 ; Missing >011EE1:0000000000000000; advance=0 name="MAKASAR LETTER GA"
 ; Missing >011EE2:0000000000000000; advance=0 name="MAKASAR LETTER NGA"

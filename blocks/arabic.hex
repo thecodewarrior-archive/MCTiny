@@ -1,5 +1,5 @@
 ; Block: Arabic
-; Range: 0600..06FF (255)
+; Range: 0600..06FF (0)
 ; Missing >0600:0000000000000000; advance=0 name="ARABIC NUMBER SIGN"
 ; Missing >0601:0000000000000000; advance=0 name="ARABIC SIGN SANAH"
 ; Missing >0602:0000000000000000; advance=0 name="ARABIC FOOTNOTE MARKER"

@@ -1,5 +1,5 @@
 ; Block: CJK Unified Ideographs Extension A
-; Range: 3400..4DBF (2)
+; Range: 3400..4DBF (0)
 ; Missing >3400:0000000000000000; advance=0 name="<CJK Ideograph Extension A, First>"
 ; Unassigned: 3401..4DBF
 ; Missing >4DB5:0000000000000000; advance=0 name="<CJK Ideograph Extension A, Last>"

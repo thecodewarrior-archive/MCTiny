@@ -1,5 +1,5 @@
 ; Block: Tags
-; Range: 0E0000..0E007F (97)
+; Range: 0E0000..0E007F (0)
 ; Unassigned: 0E0000..0E0000
 ; Missing >0E0001:0000000000000000; advance=0 name="LANGUAGE TAG"
 ; Unassigned: 0E0002..0E001F

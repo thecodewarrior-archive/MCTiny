@@ -1,5 +1,5 @@
 ; Block: CJK Strokes
-; Range: 31C0..31EF (36)
+; Range: 31C0..31EF (0)
 ; Missing >31C0:0000000000000000; advance=0 name="CJK STROKE T"
 ; Missing >31C1:0000000000000000; advance=0 name="CJK STROKE WG"
 ; Missing >31C2:0000000000000000; advance=0 name="CJK STROKE XG"

@@ -1,5 +1,5 @@
 ; Block: Modi
-; Range: 011600..01165F (79)
+; Range: 011600..01165F (0)
 ; Missing >011600:0000000000000000; advance=0 name="MODI LETTER A"
 ; Missing >011601:0000000000000000; advance=0 name="MODI LETTER AA"
 ; Missing >011602:0000000000000000; advance=0 name="MODI LETTER I"

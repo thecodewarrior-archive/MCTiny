@@ -1,5 +1,5 @@
 ; Block: Halfwidth and Fullwidth Forms
-; Range: FF00..FFEF (225)
+; Range: FF00..FFEF (0)
 ; Unassigned: FF00..FF00
 ; Missing >FF01:0000000000000000; advance=0 name="FULLWIDTH EXCLAMATION MARK"
 ; Missing >FF02:0000000000000000; advance=0 name="FULLWIDTH QUOTATION MARK"

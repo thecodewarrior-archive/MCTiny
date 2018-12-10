@@ -1,5 +1,5 @@
 ; Block: Shavian
-; Range: 010450..01047F (48)
+; Range: 010450..01047F (0)
 ; Missing >010450:0000000000000000; advance=0 name="SHAVIAN LETTER PEEP"
 ; Missing >010451:0000000000000000; advance=0 name="SHAVIAN LETTER TOT"
 ; Missing >010452:0000000000000000; advance=0 name="SHAVIAN LETTER KICK"

@@ -1,5 +1,5 @@
 ; Block: Combining Diacritical Marks Supplement
-; Range: 1DC0..1DFF (63)
+; Range: 1DC0..1DFF (0)
 ; Missing >1DC0:0000000000000000; advance=0 name="COMBINING DOTTED GRAVE ACCENT"
 ; Missing >1DC1:0000000000000000; advance=0 name="COMBINING DOTTED ACUTE ACCENT"
 ; Missing >1DC2:0000000000000000; advance=0 name="COMBINING SNAKE BELOW"

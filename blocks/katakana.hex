@@ -1,5 +1,5 @@
 ; Block: Katakana
-; Range: 30A0..30FF (96)
+; Range: 30A0..30FF (0)
 ; Missing >30A0:0000000000000000; advance=0 name="KATAKANA-HIRAGANA DOUBLE HYPHEN"
 ; Missing >30A1:0000000000000000; advance=0 name="KATAKANA LETTER SMALL A"
 ; Missing >30A2:0000000000000000; advance=0 name="KATAKANA LETTER A"

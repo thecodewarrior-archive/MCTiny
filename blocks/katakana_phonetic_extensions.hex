@@ -1,5 +1,5 @@
 ; Block: Katakana Phonetic Extensions
-; Range: 31F0..31FF (16)
+; Range: 31F0..31FF (0)
 ; Missing >31F0:0000000000000000; advance=0 name="KATAKANA LETTER SMALL KU"
 ; Missing >31F1:0000000000000000; advance=0 name="KATAKANA LETTER SMALL SI"
 ; Missing >31F2:0000000000000000; advance=0 name="KATAKANA LETTER SMALL SU"

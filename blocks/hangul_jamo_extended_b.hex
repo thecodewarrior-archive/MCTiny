@@ -1,5 +1,5 @@
 ; Block: Hangul Jamo Extended-B
-; Range: D7B0..D7FF (72)
+; Range: D7B0..D7FF (0)
 ; Missing >D7B0:0000000000000000; advance=0 name="HANGUL JUNGSEONG O-YEO"
 ; Missing >D7B1:0000000000000000; advance=0 name="HANGUL JUNGSEONG O-O-I"
 ; Missing >D7B2:0000000000000000; advance=0 name="HANGUL JUNGSEONG YO-A"

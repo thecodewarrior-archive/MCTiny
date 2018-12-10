@@ -1,5 +1,5 @@
 ; Block: Unified Canadian Aboriginal Syllabics Extended
-; Range: 18B0..18FF (70)
+; Range: 18B0..18FF (0)
 ; Missing >18B0:0000000000000000; advance=0 name="CANADIAN SYLLABICS OY"
 ; Missing >18B1:0000000000000000; advance=0 name="CANADIAN SYLLABICS AY"
 ; Missing >18B2:0000000000000000; advance=0 name="CANADIAN SYLLABICS AAY"

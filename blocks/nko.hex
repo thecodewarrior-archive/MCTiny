@@ -1,5 +1,5 @@
 ; Block: NKo
-; Range: 07C0..07FF (62)
+; Range: 07C0..07FF (0)
 ; Missing >07C0:0000000000000000; advance=0 name="NKO DIGIT ZERO"
 ; Missing >07C1:0000000000000000; advance=0 name="NKO DIGIT ONE"
 ; Missing >07C2:0000000000000000; advance=0 name="NKO DIGIT TWO"

@@ -1,5 +1,5 @@
 ; Block: Hangul Jamo
-; Range: 1100..11FF (256)
+; Range: 1100..11FF (0)
 ; Missing >1100:0000000000000000; advance=0 name="HANGUL CHOSEONG KIYEOK"
 ; Missing >1101:0000000000000000; advance=0 name="HANGUL CHOSEONG SSANGKIYEOK"
 ; Missing >1102:0000000000000000; advance=0 name="HANGUL CHOSEONG NIEUN"

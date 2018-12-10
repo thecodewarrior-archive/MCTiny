@@ -1,5 +1,5 @@
 ; Block: Samaritan
-; Range: 0800..083F (61)
+; Range: 0800..083F (0)
 ; Missing >0800:0000000000000000; advance=0 name="SAMARITAN LETTER ALAF"
 ; Missing >0801:0000000000000000; advance=0 name="SAMARITAN LETTER BIT"
 ; Missing >0802:0000000000000000; advance=0 name="SAMARITAN LETTER GAMAN"

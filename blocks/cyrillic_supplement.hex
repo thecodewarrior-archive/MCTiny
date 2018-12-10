@@ -1,5 +1,5 @@
 ; Block: Cyrillic Supplement
-; Range: 0500..052F (48)
+; Range: 0500..052F (0)
 ; Missing >0500:0000000000000000; advance=0 name="CYRILLIC CAPITAL LETTER KOMI DE"
 ; Missing >0501:0000000000000000; advance=0 name="CYRILLIC SMALL LETTER KOMI DE"
 ; Missing >0502:0000000000000000; advance=0 name="CYRILLIC CAPITAL LETTER KOMI DJE"

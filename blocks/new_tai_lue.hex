@@ -1,5 +1,5 @@
 ; Block: New Tai Lue
-; Range: 1980..19DF (83)
+; Range: 1980..19DF (0)
 ; Missing >1980:0000000000000000; advance=0 name="NEW TAI LUE LETTER HIGH QA"
 ; Missing >1981:0000000000000000; advance=0 name="NEW TAI LUE LETTER LOW QA"
 ; Missing >1982:0000000000000000; advance=0 name="NEW TAI LUE LETTER HIGH KA"

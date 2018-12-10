@@ -1,5 +1,5 @@
 ; Block: Marchen
-; Range: 011C70..011CBF (68)
+; Range: 011C70..011CBF (0)
 ; Missing >011C70:0000000000000000; advance=0 name="MARCHEN HEAD MARK"
 ; Missing >011C71:0000000000000000; advance=0 name="MARCHEN MARK SHAD"
 ; Missing >011C72:0000000000000000; advance=0 name="MARCHEN LETTER KA"

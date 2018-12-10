@@ -1,5 +1,5 @@
 ; Block: Unified Canadian Aboriginal Syllabics
-; Range: 1400..167F (640)
+; Range: 1400..167F (0)
 ; Missing >1400:0000000000000000; advance=0 name="CANADIAN SYLLABICS HYPHEN"
 ; Missing >1401:0000000000000000; advance=0 name="CANADIAN SYLLABICS E"
 ; Missing >1402:0000000000000000; advance=0 name="CANADIAN SYLLABICS AAI"

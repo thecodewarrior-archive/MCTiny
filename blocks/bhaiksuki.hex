@@ -1,5 +1,5 @@
 ; Block: Bhaiksuki
-; Range: 011C00..011C6F (97)
+; Range: 011C00..011C6F (0)
 ; Missing >011C00:0000000000000000; advance=0 name="BHAIKSUKI LETTER A"
 ; Missing >011C01:0000000000000000; advance=0 name="BHAIKSUKI LETTER AA"
 ; Missing >011C02:0000000000000000; advance=0 name="BHAIKSUKI LETTER I"

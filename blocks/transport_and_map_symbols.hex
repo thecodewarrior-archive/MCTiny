@@ -1,5 +1,5 @@
 ; Block: Transport and Map Symbols
-; Range: 01F680..01F6FF (108)
+; Range: 01F680..01F6FF (0)
 ; Missing >01F680:0000000000000000; advance=0 name="ROCKET"
 ; Missing >01F681:0000000000000000; advance=0 name="HELICOPTER"
 ; Missing >01F682:0000000000000000; advance=0 name="STEAM LOCOMOTIVE"

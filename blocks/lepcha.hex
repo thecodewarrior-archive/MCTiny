@@ -1,5 +1,5 @@
 ; Block: Lepcha
-; Range: 1C00..1C4F (74)
+; Range: 1C00..1C4F (0)
 ; Missing >1C00:0000000000000000; advance=0 name="LEPCHA LETTER KA"
 ; Missing >1C01:0000000000000000; advance=0 name="LEPCHA LETTER KLA"
 ; Missing >1C02:0000000000000000; advance=0 name="LEPCHA LETTER KHA"

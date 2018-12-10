@@ -1,5 +1,5 @@
 ; Block: Hangul Compatibility Jamo
-; Range: 3130..318F (94)
+; Range: 3130..318F (0)
 ; Unassigned: 3130..3130
 ; Missing >3131:0000000000000000; advance=0 name="HANGUL LETTER KIYEOK"
 ; Missing >3132:0000000000000000; advance=0 name="HANGUL LETTER SSANGKIYEOK"

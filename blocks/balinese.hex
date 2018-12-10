@@ -1,5 +1,5 @@
 ; Block: Balinese
-; Range: 1B00..1B7F (121)
+; Range: 1B00..1B7F (0)
 ; Missing >1B00:0000000000000000; advance=0 name="BALINESE SIGN ULU RICEM"
 ; Missing >1B01:0000000000000000; advance=0 name="BALINESE SIGN ULU CANDRA"
 ; Missing >1B02:0000000000000000; advance=0 name="BALINESE SIGN CECEK"

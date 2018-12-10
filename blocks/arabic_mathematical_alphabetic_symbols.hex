@@ -1,5 +1,5 @@
 ; Block: Arabic Mathematical Alphabetic Symbols
-; Range: 01EE00..01EEFF (143)
+; Range: 01EE00..01EEFF (0)
 ; Missing >01EE00:0000000000000000; advance=0 name="ARABIC MATHEMATICAL ALEF"
 ; Missing >01EE01:0000000000000000; advance=0 name="ARABIC MATHEMATICAL BEH"
 ; Missing >01EE02:0000000000000000; advance=0 name="ARABIC MATHEMATICAL JEEM"

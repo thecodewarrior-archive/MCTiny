@@ -1,5 +1,5 @@
 ; Block: Bopomofo Extended
-; Range: 31A0..31BF (27)
+; Range: 31A0..31BF (0)
 ; Missing >31A0:0000000000000000; advance=0 name="BOPOMOFO LETTER BU"
 ; Missing >31A1:0000000000000000; advance=0 name="BOPOMOFO LETTER ZI"
 ; Missing >31A2:0000000000000000; advance=0 name="BOPOMOFO LETTER JI"

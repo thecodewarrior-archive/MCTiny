@@ -1,5 +1,5 @@
 ; Block: Control Pictures
-; Range: 2400..243F (39)
+; Range: 2400..243F (0)
 ; Missing >2400:0000000000000000; advance=0 name="SYMBOL FOR NULL"
 ; Missing >2401:0000000000000000; advance=0 name="SYMBOL FOR START OF HEADING"
 ; Missing >2402:0000000000000000; advance=0 name="SYMBOL FOR START OF TEXT"

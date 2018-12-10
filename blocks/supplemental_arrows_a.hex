@@ -1,5 +1,5 @@
 ; Block: Supplemental Arrows-A
-; Range: 27F0..27FF (16)
+; Range: 27F0..27FF (0)
 ; Missing >27F0:0000000000000000; advance=0 name="UPWARDS QUADRUPLE ARROW"
 ; Missing >27F1:0000000000000000; advance=0 name="DOWNWARDS QUADRUPLE ARROW"
 ; Missing >27F2:0000000000000000; advance=0 name="ANTICLOCKWISE GAPPED CIRCLE ARROW"

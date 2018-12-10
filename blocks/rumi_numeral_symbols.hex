@@ -1,5 +1,5 @@
 ; Block: Rumi Numeral Symbols
-; Range: 010E60..010E7F (31)
+; Range: 010E60..010E7F (0)
 ; Missing >010E60:0000000000000000; advance=0 name="RUMI DIGIT ONE"
 ; Missing >010E61:0000000000000000; advance=0 name="RUMI DIGIT TWO"
 ; Missing >010E62:0000000000000000; advance=0 name="RUMI DIGIT THREE"

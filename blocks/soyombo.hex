@@ -1,5 +1,5 @@
 ; Block: Soyombo
-; Range: 011A50..011AAF (81)
+; Range: 011A50..011AAF (0)
 ; Missing >011A50:0000000000000000; advance=0 name="SOYOMBO LETTER A"
 ; Missing >011A51:0000000000000000; advance=0 name="SOYOMBO VOWEL SIGN I"
 ; Missing >011A52:0000000000000000; advance=0 name="SOYOMBO VOWEL SIGN UE"

@@ -1,5 +1,5 @@
 ; Block: High Private Use Surrogates
-; Range: DB80..DBFF (2)
+; Range: DB80..DBFF (0)
 ; Missing >DB80:0000000000000000; advance=0 name="<Private Use High Surrogate, First>"
 ; Unassigned: DB81..DBFF
 ; Missing >DBFF:0000000000000000; advance=0 name="<Private Use High Surrogate, Last>"

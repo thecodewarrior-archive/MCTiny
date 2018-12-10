@@ -1,5 +1,5 @@
 ; Block: Tai Viet
-; Range: AA80..AADF (72)
+; Range: AA80..AADF (0)
 ; Missing >AA80:0000000000000000; advance=0 name="TAI VIET LETTER LOW KO"
 ; Missing >AA81:0000000000000000; advance=0 name="TAI VIET LETTER HIGH KO"
 ; Missing >AA82:0000000000000000; advance=0 name="TAI VIET LETTER LOW KHO"

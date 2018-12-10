@@ -1,5 +1,5 @@
 ; Block: Meetei Mayek
-; Range: ABC0..ABFF (56)
+; Range: ABC0..ABFF (0)
 ; Missing >ABC0:0000000000000000; advance=0 name="MEETEI MAYEK LETTER KOK"
 ; Missing >ABC1:0000000000000000; advance=0 name="MEETEI MAYEK LETTER SAM"
 ; Missing >ABC2:0000000000000000; advance=0 name="MEETEI MAYEK LETTER LAI"

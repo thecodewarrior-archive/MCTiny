@@ -1,5 +1,5 @@
 ; Block: Vedic Extensions
-; Range: 1CD0..1CFF (42)
+; Range: 1CD0..1CFF (0)
 ; Missing >1CD0:0000000000000000; advance=0 name="VEDIC TONE KARSHANA"
 ; Missing >1CD1:0000000000000000; advance=0 name="VEDIC TONE SHARA"
 ; Missing >1CD2:0000000000000000; advance=0 name="VEDIC TONE PRENKHA"

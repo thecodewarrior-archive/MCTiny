@@ -1,5 +1,5 @@
 ; Block: Runic
-; Range: 16A0..16FF (89)
+; Range: 16A0..16FF (0)
 ; Missing >16A0:0000000000000000; advance=0 name="RUNIC LETTER FEHU FEOH FE F"
 ; Missing >16A1:0000000000000000; advance=0 name="RUNIC LETTER V"
 ; Missing >16A2:0000000000000000; advance=0 name="RUNIC LETTER URUZ UR U"

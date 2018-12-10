@@ -1,5 +1,5 @@
 ; Block: CJK Symbols and Punctuation
-; Range: 3000..303F (64)
+; Range: 3000..303F (0)
 ; Missing >3000:0000000000000000; advance=0 name="IDEOGRAPHIC SPACE"
 ; Missing >3001:0000000000000000; advance=0 name="IDEOGRAPHIC COMMA"
 ; Missing >3002:0000000000000000; advance=0 name="IDEOGRAPHIC FULL STOP"

@@ -1,5 +1,5 @@
 ; Block: Combining Diacritical Marks Extended
-; Range: 1AB0..1AFF (15)
+; Range: 1AB0..1AFF (0)
 ; Missing >1AB0:0000000000000000; advance=0 name="COMBINING DOUBLED CIRCUMFLEX ACCENT"
 ; Missing >1AB1:0000000000000000; advance=0 name="COMBINING DIAERESIS-RING"
 ; Missing >1AB2:0000000000000000; advance=0 name="COMBINING INFINITY"

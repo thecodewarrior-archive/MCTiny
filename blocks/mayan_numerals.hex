@@ -1,5 +1,5 @@
 ; Block: Mayan Numerals
-; Range: 01D2E0..01D2FF (20)
+; Range: 01D2E0..01D2FF (0)
 ; Missing >01D2E0:0000000000000000; advance=0 name="MAYAN NUMERAL ZERO"
 ; Missing >01D2E1:0000000000000000; advance=0 name="MAYAN NUMERAL ONE"
 ; Missing >01D2E2:0000000000000000; advance=0 name="MAYAN NUMERAL TWO"

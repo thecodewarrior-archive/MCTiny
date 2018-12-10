@@ -1,5 +1,5 @@
 ; Block: CJK Compatibility
-; Range: 3300..33FF (256)
+; Range: 3300..33FF (0)
 ; Missing >3300:0000000000000000; advance=0 name="SQUARE APAATO"
 ; Missing >3301:0000000000000000; advance=0 name="SQUARE ARUHUA"
 ; Missing >3302:0000000000000000; advance=0 name="SQUARE ANPEA"

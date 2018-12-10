@@ -1,5 +1,5 @@
 ; Block: Tamil
-; Range: 0B80..0BFF (72)
+; Range: 0B80..0BFF (0)
 ; Unassigned: 0B80..0B81
 ; Missing >0B82:0000000000000000; advance=0 name="TAMIL SIGN ANUSVARA"
 ; Missing >0B83:0000000000000000; advance=0 name="TAMIL SIGN VISARGA"

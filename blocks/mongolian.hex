@@ -1,5 +1,5 @@
 ; Block: Mongolian
-; Range: 1800..18AF (157)
+; Range: 1800..18AF (0)
 ; Missing >1800:0000000000000000; advance=0 name="MONGOLIAN BIRGA"
 ; Missing >1801:0000000000000000; advance=0 name="MONGOLIAN ELLIPSIS"
 ; Missing >1802:0000000000000000; advance=0 name="MONGOLIAN COMMA"

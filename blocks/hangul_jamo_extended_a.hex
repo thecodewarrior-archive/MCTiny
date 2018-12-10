@@ -1,5 +1,5 @@
 ; Block: Hangul Jamo Extended-A
-; Range: A960..A97F (29)
+; Range: A960..A97F (0)
 ; Missing >A960:0000000000000000; advance=0 name="HANGUL CHOSEONG TIKEUT-MIEUM"
 ; Missing >A961:0000000000000000; advance=0 name="HANGUL CHOSEONG TIKEUT-PIEUP"
 ; Missing >A962:0000000000000000; advance=0 name="HANGUL CHOSEONG TIKEUT-SIOS"

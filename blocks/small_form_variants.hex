@@ -1,5 +1,5 @@
 ; Block: Small Form Variants
-; Range: FE50..FE6F (26)
+; Range: FE50..FE6F (0)
 ; Missing >FE50:0000000000000000; advance=0 name="SMALL COMMA"
 ; Missing >FE51:0000000000000000; advance=0 name="SMALL IDEOGRAPHIC COMMA"
 ; Missing >FE52:0000000000000000; advance=0 name="SMALL FULL STOP"

@@ -1,5 +1,5 @@
 ; Block: Cherokee Supplement
-; Range: AB70..ABBF (80)
+; Range: AB70..ABBF (0)
 ; Missing >AB70:0000000000000000; advance=0 name="CHEROKEE SMALL LETTER A"
 ; Missing >AB71:0000000000000000; advance=0 name="CHEROKEE SMALL LETTER E"
 ; Missing >AB72:0000000000000000; advance=0 name="CHEROKEE SMALL LETTER I"

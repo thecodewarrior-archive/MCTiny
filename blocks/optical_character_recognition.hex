@@ -1,5 +1,5 @@
 ; Block: Optical Character Recognition
-; Range: 2440..245F (11)
+; Range: 2440..245F (0)
 ; Missing >2440:0000000000000000; advance=0 name="OCR HOOK"
 ; Missing >2441:0000000000000000; advance=0 name="OCR CHAIR"
 ; Missing >2442:0000000000000000; advance=0 name="OCR FORK"

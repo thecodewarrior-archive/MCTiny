@@ -1,5 +1,5 @@
 ; Block: Myanmar Extended-B
-; Range: A9E0..A9FF (31)
+; Range: A9E0..A9FF (0)
 ; Missing >A9E0:0000000000000000; advance=0 name="MYANMAR LETTER SHAN GHA"
 ; Missing >A9E1:0000000000000000; advance=0 name="MYANMAR LETTER SHAN CHA"
 ; Missing >A9E2:0000000000000000; advance=0 name="MYANMAR LETTER SHAN JHA"

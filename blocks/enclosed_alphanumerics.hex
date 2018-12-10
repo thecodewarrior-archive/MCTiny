@@ -1,5 +1,5 @@
 ; Block: Enclosed Alphanumerics
-; Range: 2460..24FF (160)
+; Range: 2460..24FF (0)
 ; Missing >2460:0000000000000000; advance=0 name="CIRCLED DIGIT ONE"
 ; Missing >2461:0000000000000000; advance=0 name="CIRCLED DIGIT TWO"
 ; Missing >2462:0000000000000000; advance=0 name="CIRCLED DIGIT THREE"

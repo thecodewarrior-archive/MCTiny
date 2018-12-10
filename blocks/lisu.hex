@@ -1,5 +1,5 @@
 ; Block: Lisu
-; Range: A4D0..A4FF (48)
+; Range: A4D0..A4FF (0)
 ; Missing >A4D0:0000000000000000; advance=0 name="LISU LETTER BA"
 ; Missing >A4D1:0000000000000000; advance=0 name="LISU LETTER PA"
 ; Missing >A4D2:0000000000000000; advance=0 name="LISU LETTER PHA"
