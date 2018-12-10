@@ -1,5 +1,5 @@
 ; Block: CJK Unified Ideographs Extension E
 ; Range: 02B820..02CEAF (2)
-; Missing >02B820:0000000000000000; name="<CJK Ideograph Extension E, First>"
+; Missing >02B820:0000000000000000; advance=0 name="<CJK Ideograph Extension E, First>"
 ; Unassigned: 02B821..02CEAF
-; Missing >02CEA1:0000000000000000; name="<CJK Ideograph Extension E, Last>"
+; Missing >02CEA1:0000000000000000; advance=0 name="<CJK Ideograph Extension E, Last>"

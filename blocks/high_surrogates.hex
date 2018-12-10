@@ -1,5 +1,5 @@
 ; Block: High Surrogates
 ; Range: D800..DB7F (2)
-; Missing >D800:0000000000000000; name="<Non Private Use High Surrogate, First>"
+; Missing >D800:0000000000000000; advance=0 name="<Non Private Use High Surrogate, First>"
 ; Unassigned: D801..DB7F
-; Missing >DB7F:0000000000000000; name="<Non Private Use High Surrogate, Last>"
+; Missing >DB7F:0000000000000000; advance=0 name="<Non Private Use High Surrogate, Last>"

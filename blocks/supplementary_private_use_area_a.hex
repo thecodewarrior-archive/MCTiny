@@ -1,5 +1,5 @@
 ; Block: Supplementary Private Use Area-A
 ; Range: 0F0000..0FFFFF (2)
-; Missing >0F0000:0000000000000000; name="<Plane 15 Private Use, First>"
+; Missing >0F0000:0000000000000000; advance=0 name="<Plane 15 Private Use, First>"
 ; Unassigned: 0F0001..0FFFFF
-; Missing >0FFFFD:0000000000000000; name="<Plane 15 Private Use, Last>"
+; Missing >0FFFFD:0000000000000000; advance=0 name="<Plane 15 Private Use, Last>"
