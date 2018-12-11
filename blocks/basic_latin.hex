@@ -1,6 +1,6 @@
 ; Block: Basic Latin
-; Range: 0000..007F (126)
-; Missing >0000:0000000000000000; advance=0 name="NULL"
+; Range: 0000..007F (127)
+0000:0000000000000000; advance=2 name="NULL"
 0001:548034B004A80000; advance=7 name="START OF HEADING"
 0002:548034B004A80000; advance=7 name="START OF TEXT"
 0003:548034B004A80000; advance=7 name="END OF TEXT"
