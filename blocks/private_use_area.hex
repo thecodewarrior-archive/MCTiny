@@ -1,5 +1,18 @@
 ; Block: Private Use Area
-; Range: E000..F8FF (0)
+; Range: E000..F8FF (12)
 ; Missing >E000:0000000000000000; advance=0 name="<Private Use, First>"
-; Unassigned: E001..F8FF
-; Missing >F8FF:0000000000000000; advance=0 name="<Private Use, Last>"
+; Unassigned: E001..F7FF
+F800:3E7CF0F8DCCE8703; advance=9
+F801:7C3E0F1F3B73E1C0; advance=9
+F802:C0E0703B1E0C1A11; advance=9
+F803:03070EDC78305888; advance=9
+; Unassigned: F804..F80F
+F810:386C82EEBA826C38; advance=8
+F811:060A142850A0C000; advance=8
+F812:FE82FE928282FE00; advance=8
+F813:00CCCC3078784800; advance=7
+F814:006CFEFE7C381000; advance=8
+F815:006CF2F274381000; advance=8
+F816:006C928244281000; advance=8
+; Unassigned: F817..F8FF
+F8FF:0000000000000000; advance=5 name="<Private Use, Last>"
